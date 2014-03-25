@@ -8,13 +8,13 @@ brew install zeromq (para o ipython notebook)
   
 Via pip (em requirements.txt):  
   
-pip install pandas  
-pip install ipython  
-pip install mpmath  
 pip install numpy  
+pip install mpmath  
 pip install scipy  
-pip install statsmodels  
+pip install ipython  
 pip install matplotlib  
+pip install pandas  
+pip install statsmodels  
 pip install patsy  
 pip install pyzmq  
 pip install Tornado  
