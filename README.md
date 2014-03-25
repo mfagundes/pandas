@@ -14,8 +14,8 @@ pip install scipy
 pip install ipython  
 pip install matplotlib  
 pip install pandas  
-pip install statsmodels  
 pip install patsy  
+pip install statsmodels  
 pip install pyzmq  
 pip install Tornado  
 pip install jinja2  
