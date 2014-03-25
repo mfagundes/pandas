@@ -1,0 +1,29 @@
+#via homebrew instalar
+#gfortran (para o numpy)
+# pkg-config (para o matplotlib)
+# freetype  (para o matplotlib)
+# libpng (para o matplotlib)
+# ffmpeg (para o matplotlib)
+# zeromq (para o ipython notebook)
+
+pandas
+ipython
+mpmath
+numpy
+scipy
+statsmodels
+matplotlib
+patsy
+pyzmq
+Tornado
+jinja2
+
+# usando iPython
+# In [1]: from IPython.external.mathjax import install_mathjax
+# In [2]: install_mathjax()
+
+# finalmente, rodar
+# $ ipython notebook --pylab inline
+
+# baseado em http://www.tapir.caltech.edu/~dtsang/python.html
+
