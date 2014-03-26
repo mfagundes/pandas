@@ -1,10 +1,11 @@
-pandas
-ipython
-mpmath
 numpy
+mpmath
 scipy
-statsmodels
+ipython
 matplotlib
+pandas
+patsy
+statsmodels
 patsy
 pyzmq
 Tornado
